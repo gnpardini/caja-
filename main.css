@@ -1,0 +1,30 @@
+body{
+
+    background-color: #556B2F;
+}
+
+.caja{
+
+    margin:8px;
+    padding:8px;
+    width:500px;
+    background-color: #ffffff;
+    border-style:ridge;
+   
+}
+
+.boton1{
+
+    background-color: #0000ff;
+    width: 100px;
+    height:30px;
+    color: #ffffff
+}
+
+.boton2{
+    background-color: #696969;
+    width:100px;
+    height:30px;
+    color:#ffffff
+
+}
